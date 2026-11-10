@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="logo">🏨 Sunrise Hotel</div>
+      <div className="logo">LUU TAN PHAT HOTEL</div>
       <ul>
         <li><NavLink to="/">Trang chủ</NavLink></li>
         <li><NavLink to="/rooms">Phòng</NavLink></li>
