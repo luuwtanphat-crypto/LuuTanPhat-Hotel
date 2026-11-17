@@ -3,7 +3,7 @@ function AboutUs() {
     <section className="section">
       <h2>Về chúng tôi</h2>
       <p className="center-text">
-        Sunrise Hotel là hệ thống đặt phòng trực tuyến, kết nối khách hàng với
+        Luu Tan Phat Hotel là hệ thống đặt phòng trực tuyến, kết nối khách hàng với
         các khách sạn chất lượng. Chúng tôi hướng tới trải nghiệm đặt phòng
         đơn giản, minh bạch và an toàn.
       </p>

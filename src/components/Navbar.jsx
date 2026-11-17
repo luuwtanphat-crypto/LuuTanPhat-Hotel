@@ -9,6 +9,7 @@ function Navbar() {
         <li><NavLink to="/rooms">Phòng</NavLink></li>
         <li><NavLink to="/about-us">Giới thiệu</NavLink></li>
         <li><NavLink to="/contact">Liên hệ</NavLink></li>
+        <li><NavLink to="/manage-rooms">Quản lý phòng</NavLink></li>
       </ul>
     </nav>
   )

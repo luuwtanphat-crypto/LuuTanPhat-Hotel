@@ -1,3 +1,4 @@
+import ManageRooms from './pages/ManageRooms'
 import { Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
@@ -11,6 +12,7 @@ function App() {
     <>
       <Navbar />
       <Routes>
+        <Route path="/manage-rooms" element={<ManageRooms />} />
         <Route path="/" element={<Home />} />
         <Route path="/rooms" element={<Rooms />} />
         <Route path="/about-us" element={<AboutUs />} />
